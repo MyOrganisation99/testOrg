@@ -1,2 +1,2 @@
 # testOrg
-An repo to test my organisation is good
+An repo to test my organisation is setup
